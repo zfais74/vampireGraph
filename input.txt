@@ -1,0 +1,163 @@
+8
+4
+A B 24 2
+A C 24 1
+B D 2 4
+C D 24 1
+A D
+4
+A B 18 1
+B C 18 1
+C D 18 1
+A D 6 12
+A D
+13
+A B 18 1
+B C 19 1
+C D 20 1
+D E 21 1
+E F 22 1
+F G 23 1
+G H 24 1
+H I 1 1
+I J 2 1
+J K 3 1
+K L 4 1
+L M 5 1
+A L 18 12
+A M
+12
+A B 18 1
+B C 19 1
+C D 20 1
+D E 21 1
+E F 22 1
+F G 23 1
+G H 24 1
+H I 1 1
+I J 2 1
+J K 3 1
+K L 4 2
+A L 18 11
+A L
+11
+A B 18 1
+B C 19 1
+C D 20 1
+D E 21 1
+E F 22 1
+F G 23 1
+G H 24 1
+H I 1 1
+I J 2 1
+J K 3 1
+K L 3 2
+A L
+96
+A B 1 5
+B A 23 2
+A C 3 2
+C A 1 2
+A H 21 4
+H A 3 2
+A J 18 5
+J A 3 2
+A L 22 6
+L A 23 6
+A M 22 1
+M A 18 8
+B C 18 11
+C B 24 1
+B D 2 4
+D B 22 3
+B H 24 3
+H B 23 5
+B L 5 1
+L B 23 2
+C F 23 5
+F C 1 4
+C H 20 4
+H C 21 4
+C I 1 2
+I C 22 8
+C K 19 2
+K C 3 1
+C L 24 5
+L C 3 3
+C N 21 8
+N C 23 5
+C O 23 6
+O C 21 2
+C P 2 2
+P C 1 4
+D G 1 3
+G D 20 10
+D H 3 2
+H D 18 11
+D J 4 1
+J D 18 6
+D K 1 3
+K D 3 2
+D L 18 5
+L D 3 2
+D P 4 2
+P D 4 2
+E K 1 1
+K E 24 2
+E M 1 3
+M E 1 4
+E N 19 1
+N E 1 1
+E P 19 4
+P E 3 2
+F J 3 1
+J F 3 2
+F L 5 1
+L F 3 3
+F N 20 5
+N F 5 1
+G J 21 1
+J G 24 1
+G K 22 2
+K G 18 2
+G N 1 4
+N G 2 3
+G O 19 6
+O G 22 7
+G P 19 10
+P G 2 2
+H I 19 2
+I H 22 5
+H N 1 3
+N H 2 3
+I J 23 7
+J I 2 3
+I L 3 3
+L I 21 2
+J N 5 1
+N J 1 5
+J O 23 6
+O J 4 2
+K L 22 6
+L K 21 2
+K O 2 3
+O K 24 3
+L M 2 4
+M L 2 4
+L N 21 5
+N L 23 2
+L O 22 4
+O L 21 6
+L P 24 1
+P L 21 3
+A P
+3
+A B 18 4
+A B 19 2
+B C 21 1
+A C
+3
+A B 18 4
+B C 18 1
+B C 22 4
+A C
